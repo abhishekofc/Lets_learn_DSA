@@ -1,5 +1,5 @@
 #LinearSearch finds the index of element(key) in the given array.
-#Code
+
 import java.util.*;
 public class LinearSearch{
 public Static void main(String args[]){

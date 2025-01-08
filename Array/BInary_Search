@@ -22,3 +22,4 @@ public class Binarysearch {
         return -1;
     }
 }
+// Binary search is better than linear search beacuse of its time complexity 
